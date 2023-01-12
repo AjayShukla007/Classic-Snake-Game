@@ -1,9 +1,9 @@
 let inputdir = {x:0,y:0};
 
-let startSound = new Audio('assets/audio/panflute.mp3');
-let moveSound = new Audio('assets/audio/fast-move.mp3');
-let eatSound = new Audio('assets/audio/pow-eat.mp3');
-let crashSound = new Audio('assets/audio/crash-snake.mp3');
+let startSound = new Audio('Clasic snake game 1.4.1/assets/audio/panflute.mp3');
+let moveSound = new Audio('Clasic snake game 1.4.1/assets/audio/fast-move.mp3');
+let eatSound = new Audio('Clasic snake game 1.4.1/assets/audio/pow-eat.mp3');
+let crashSound = new Audio('Clasic snake game 1.4.1/assets/audio/crash-snake.mp3');
 
 let scoreB = document.querySelector('#score');
 let btn = document.querySelectorAll('.btn1');
