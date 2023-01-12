@@ -1,6 +1,6 @@
 let inputdir = {x:0,y:0};
 
-let startSound = new Audio('/Classic snake game 1.4.1/assets/audio/panflute.mp3');
+let startSound = new Audio('/assets/audio/panflute.mp3');
 let moveSound = new Audio('/Classic snake game 1.4.1/assets/audio/fast-move.mp3');
 let eatSound = new Audio('/Classic snake game 1.4.1/assets/audio/pow-eat.mp3');
 let crashSound = new Audio('/Classic snake game 1.4.1/assets/audio/crash-snake.mp3');
